@@ -1,0 +1,248 @@
+* { margin: 0;}
+
+.List { list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+    flex-wrap: wrap;
+
+}
+
+
+nav { 
+background-color: #202649;
+color: white;
+font-weight: bold;
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-wrap: wrap;
+padding:15px 60px;
+box-shadow: 0px 10px 20px rgba(0, 0, 0, 38) ;
+}
+
+button { background-color: #202649;
+    color: white;}
+
+    .Avatar {
+
+width: 200px;
+height: 246px;
+/* background-color: #c4c4c4; */
+border-radius: 206px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+font-size: 35px;
+font-weight: bold;
+position: relative;
+background-image: url(../style/jess.JPG);
+background-size: cover;
+background-repeat: no-repeat;
+border: 15px solid rgba(205 , 209, 232, 1);
+
+    }
+    
+
+    .Avatarmain { 
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+
+
+    .Avatar2 {
+
+        width: 200px;
+        height: 246px;
+        /* background-color: #c4c4c4; */
+        border-radius: 206px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 35px;
+        font-weight: bold;
+        position: relative;
+        background-image: url(../style/jess.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+        border: 15px solid rgba(205 , 209, 232, 1);
+    }
+
+
+
+    .Avatarmain2 { 
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+
+
+    
+    
+    .Avatar3 {
+        position: absolute;
+        right: 50px;
+        width: 200px;
+        height: 246px;
+        /* background-color: #c4c4c4; */
+        border-radius: 206px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 35px;
+        font-weight: bold;
+        position: relative;
+        background-image: url(../style/jess.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+        border: 15px solid rgba(205 , 209, 232, 1);
+    }
+
+
+
+    .Avatarmain3 { 
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+
+
+    .Avatarmain4 { 
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+
+
+    .Avatar4 {
+
+        position: absolute;
+        width: 200px;
+        height: 246px;
+        /* background-color: #c4c4c4; */
+        border-radius: 206px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 35px;
+        font-weight: bold;
+        position: relative;
+        background-image: url(../style/jess.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+        border: 15px solid rgba(205 , 209, 232, 1);
+    }
+
+  
+    .Avatarmain5 { 
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+
+
+    .Avatar5 {
+
+      
+        width: 200px;
+        height: 246px;
+        /* background-color: #c4c4c4; */
+        border-radius: 206px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 35px;
+        font-weight: bold;
+        position: relative;
+        background-image: url(../style/jess.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+        border: 15px solid rgba(205 , 209, 232, 1);
+    }
+
+    .Avatarmain6 { 
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+
+    .Avatar6 {
+
+      
+        width: 200px;
+        height: 246px;
+        /* background-color: #c4c4c4; */
+        border-radius: 206px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 35px;
+        font-weight: bold;
+        position: relative;
+        background-image: url(../style/jess.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+        border: 15px solid rgba(205 , 209, 232, 1);
+    }
+
+
+    .Avatarmain7 { 
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+
+    .Avatar7 {
+
+      
+        width: 200px;
+        height: 246px;
+        /* background-color: #c4c4c4; */
+        border-radius: 206px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 35px;
+        font-weight: bold;
+        position: relative;
+        background-image: url(../style/jess.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+        border: 15px solid rgba(205 , 209, 232, 1);
+    }
+
+
+    
+    .Avatarmain8 { 
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+
+    .Avatar8 {
+
+      
+        width: 200px;
+        height: 246px;
+        /* background-color: #c4c4c4; */
+        border-radius: 206px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 35px;
+        font-weight: bold;
+        position: relative;
+        background-image: url(../style/jess.JPG);
+        background-size: cover;
+        background-repeat: no-repeat;
+        border: 15px solid rgba(205 , 209, 232, 1);
+    }
